@@ -1,0 +1,28 @@
+$bg: rgb(255, 255, 255);
+$mainPane: rgb(250, 250, 250);
+
+html,
+body {
+    padding: 0;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+        Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    background-color: $bg;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.main-pane {
+    height: 100%;
+    padding: 1em;
+    background-color: $mainPane;
+    display: flex;
+    flex-direction: column;
+}

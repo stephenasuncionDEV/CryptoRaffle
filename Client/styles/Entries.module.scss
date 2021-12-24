@@ -1,0 +1,16 @@
+.card {
+    max-width: 1440px;
+    width: 365px;
+    margin-left: 1em;
+}
+
+.content {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.list {
+    flex: 1;
+    height: 50px;
+}

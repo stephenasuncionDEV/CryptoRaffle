@@ -1,0 +1,7 @@
+Stack:
+React JS
+Express JS
+Material UI
+Next JS
+SASS
+Ethers

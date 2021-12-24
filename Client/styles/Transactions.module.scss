@@ -1,0 +1,11 @@
+.card {
+    margin-top: 1em;
+    margin-bottom: 5em;
+    max-width: 1183px;
+    width: 100%;
+}
+
+.cardContent {
+    display: flex;
+    flex-direction: column;
+}

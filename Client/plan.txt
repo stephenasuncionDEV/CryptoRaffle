@@ -1,0 +1,7 @@
+Stack:
+React JS
+Firebase
+Socket.io
+Express JS
+Material UI
+Heroku
